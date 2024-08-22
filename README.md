@@ -23,14 +23,14 @@ Este repositório foi criado para a aula prática de Pull Request. O objetivo é
    ```
 
 4. **Crie sua Pasta**
-   - No diretório `src/student/`, crie uma nova pasta com o seu nome no formato kebab-case (nome-sobrenome).
+   - No diretório `src/student/`, crie uma nova pasta com o seu username do github (username).
    - Dentro dessa pasta, crie um arquivo `README.md` com o seguinte conteúdo:
 
    ```md
-   # Nome Completo
+   # Nome - DEV
 
-   - **GitHub**: [Seu Usuário do GitHub](https://github.com/seu-usuario)
-   - **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+   - **GitHub**: [Click aqui](https://github.com/seu-usuario)
+   - **LinkedIn**: [CLick aqui](https://www.linkedin.com/in/seu-usuario/)
    ```
 
    **Exemplo:**
@@ -69,9 +69,9 @@ A estrutura do repositório após a sua contribuição deve ser similar ao segui
 ```
 src/
 └── student/
-    ├── lucas-correa/
+    ├── lucascorreaa/
     │   └── README.md
-    └── seu-nome-sobrenome/
+    └── username/
         └── README.md
 ```
 
