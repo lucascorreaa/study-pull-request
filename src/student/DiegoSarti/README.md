@@ -1,4 +1,7 @@
-**GitHub**: [DiegoSarti](https://github.com/DiegoSarti)
+# Diego Sarti - Dev
+
+GitHub: [Click aqui](https://github.com/DiegoSarti)
 
 
-**LinkedIn**: [Diego Sarti](https://www.linkedin.com/in/Diego Sarti/)
+LinkedIn: [Click aqui](https://www.linkedin.com/in/Diego Sarti/)
+
